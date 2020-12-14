@@ -1,0 +1,13 @@
+E:\DAM\1º\Programación\Examen2\AP7\ej4\ej4\bin\Debug\netcoreapp3.1\ej4.exe
+E:\DAM\1º\Programación\Examen2\AP7\ej4\ej4\bin\Debug\netcoreapp3.1\ej4.deps.json
+E:\DAM\1º\Programación\Examen2\AP7\ej4\ej4\bin\Debug\netcoreapp3.1\ej4.runtimeconfig.json
+E:\DAM\1º\Programación\Examen2\AP7\ej4\ej4\bin\Debug\netcoreapp3.1\ej4.runtimeconfig.dev.json
+E:\DAM\1º\Programación\Examen2\AP7\ej4\ej4\bin\Debug\netcoreapp3.1\ej4.dll
+E:\DAM\1º\Programación\Examen2\AP7\ej4\ej4\bin\Debug\netcoreapp3.1\ej4.pdb
+E:\DAM\1º\Programación\Examen2\AP7\ej4\ej4\obj\Debug\netcoreapp3.1\ej4.csprojAssemblyReference.cache
+E:\DAM\1º\Programación\Examen2\AP7\ej4\ej4\obj\Debug\netcoreapp3.1\ej4.AssemblyInfoInputs.cache
+E:\DAM\1º\Programación\Examen2\AP7\ej4\ej4\obj\Debug\netcoreapp3.1\ej4.AssemblyInfo.cs
+E:\DAM\1º\Programación\Examen2\AP7\ej4\ej4\obj\Debug\netcoreapp3.1\ej4.csproj.CoreCompileInputs.cache
+E:\DAM\1º\Programación\Examen2\AP7\ej4\ej4\obj\Debug\netcoreapp3.1\ej4.dll
+E:\DAM\1º\Programación\Examen2\AP7\ej4\ej4\obj\Debug\netcoreapp3.1\ej4.pdb
+E:\DAM\1º\Programación\Examen2\AP7\ej4\ej4\obj\Debug\netcoreapp3.1\ej4.genruntimeconfig.cache
